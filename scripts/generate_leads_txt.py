@@ -114,7 +114,7 @@ EXTRA = [
     "sparklebyshreya",
     "adorebypriyanka",
     "chandi_chapter",
-    "jeweljunctionindia",
+    "gemijewllery_world",
 ]
 
 # Optional hints from indexed captions (not exhaustive; verify in-app).
@@ -219,6 +219,11 @@ HINTS: dict[str, dict[str, str]] = {
         "wa": "9740234813",
         "city": "Karnataka",
         "type": "One-gram / JK collection",
+    },
+    "gemijewllery_world": {
+        "wa": "8928286885",
+        "city": "India-wide delivery (caption)",
+        "type": "Kundan / fusion wedding jewellery",
     },
 }
 

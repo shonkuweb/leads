@@ -1,5 +1,5 @@
 India Jewellery Instagram / WhatsApp SMB lead export
-Generated (UTC): 2026-05-22 17:13
+Generated (UTC): 2026-05-22 17:14
 Row count: 100 unique Instagram handles.
 Disclaimer: Built from public web index + curated seeds; not fetched live from Instagram API.
 
@@ -2481,25 +2481,25 @@ Notes: Metrics (followers, exact last post date, engagement rate) were not fetch
 ==================================================
 LEAD #100
 ==================================================
-Business Name: Jeweljunctionindia
-Instagram: @jeweljunctionindia
-Instagram URL: https://www.instagram.com/jeweljunctionindia/
+Business Name: Gemijewllery World
+Instagram: @gemijewllery_world
+Instagram URL: https://www.instagram.com/gemijewllery_world/
 Followers Count: Unknown — verify in Instagram app
-City: India — verify from bio
+City: India-wide delivery (caption)
 State: Unknown — verify from bio / posts
-Business Type: Jewellery / accessories SMB
-WhatsApp Number: See Instagram bio / recent posts (not in local index)
+Business Type: Kundan / fusion wedding jewellery
+WhatsApp Number: 8928286885
 Email: Unknown — check bio / Highlights
 Ordering Method: Instagram DM; WhatsApp screenshot / message (typical); verify per profile
 Website Present: No — not identified in discovery snippets (Linktree/bio-only may exist)
 Website URL: N/A or link-in-bio only — verify
 Recent Activity Date: Unknown — index shows 2025–2026 activity for many peers; verify in app
 Average Engagement: Unknown — verify via analytics tools or manual sample of posts
-Bio Text: @jeweljunctionindia — India-focused jewellery SMB. Ordering typically via Instagram DM and/or WhatsApp per niche patterns.
+Bio Text: @gemijewllery_world — India-focused jewellery SMB. Ordering typically via Instagram DM and/or WhatsApp per niche patterns.
 Keywords: India jewellery, Instagram seller, DM order, WhatsApp order, SMB
 Reason Qualified: Instagram-first jewellery seller; indexed content shows DM/WhatsApp/screenshot ordering patterns; no dedicated Shopify-class storefront cited in discovery snippets for this export.
 Potential Services Needed: Website or landing page; WhatsApp automation; catalog/order CRM; Instagram booking flows; lightweight ecommerce; marketing automation.
-Google Maps Link: Search Google Maps: Jeweljunctionindia India
-Lead Quality Score: 6/10 (preliminary — confirm activity & contact paths)
-Notes: Metrics (followers, exact last post date, engagement rate) were not fetched: Instagram web_profile_info returned HTTP 404 from this environment. Re-validate handle, bio link, and phone in the Instagram app before outreach.
+Google Maps Link: Search Google Maps: Gemijewllery World India-wide delivery (caption)
+Lead Quality Score: 7/10 (preliminary — confirm activity & contact paths)
+Notes: Metrics (followers, exact last post date, engagement rate) were not fetched: Instagram web_profile_info returned HTTP 404 from this environment. Re-validate handle, bio link, and phone in the Instagram app before outreach. Indexed hints: wa=8928286885; city=India-wide delivery (caption); type=Kundan / fusion wedding jewellery
 
